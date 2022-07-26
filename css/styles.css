@@ -1,3 +1,7 @@
-body {
-    background: lightblue;
+:root {
+    --color-primary: #346beb;
+    --color-secondary: #92e0f0;
+    --color-accent: #f09b13;
+    --color-heading: #0b093b;
+    --color-body: #9a9a9c;
 }
